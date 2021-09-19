@@ -1,0 +1,5 @@
+tasks : -
+   1. make a variable which store number and display it on screen 
+    2. make a variable which store your name and display it in console tab
+    3. take a name input from the user and display it on screen
+    4. show user any kind of confirmation message .like Are you sure ,you want to delete data ? 
