@@ -1,0 +1,4 @@
+tasks : 
+    apply  the arithmetic operators . like +,-,/,%,*
+    use the concept of pre incrment and post increment demostrate one example of it.
+    use the concept of pre decrement and post decrement demostrate one example of it.
