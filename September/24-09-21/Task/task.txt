@@ -1,0 +1,9 @@
+problem statment : 
+        Ram have N rs and he wants to buy mobile cover . which is worth of 100rs .ram is unable identify . is it enough to buy mobile cover or not .  so write a program which tells ram it is enough to buy mobile cover.
+         
+        input : ramMoney , mCoverPrice = 100 , 
+              1 <= N <= 100
+        output  : 
+         if ram has enough money to buy :-    You have N rs .So You can buy mobile cover.  
+
+          if ram has not enough money to buy :-    You have N rs .So You can not buy mobile cover.  
