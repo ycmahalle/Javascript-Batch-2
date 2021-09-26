@@ -1,0 +1,2 @@
+Problem statement : 
+    declare two variable and use the switch case to perform different mathmatical operations like +,-,*,/,%.
